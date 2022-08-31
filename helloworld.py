@@ -3,7 +3,7 @@
 """Top-level script to invoke helloworld implementation."""
 
 import sys
-import helloworld2.main
+import helloworld44.main
 
 if __name__ == '__main__':
-    sys.exit(helloworld2.main.main())
+    sys.exit(helloworld44.main.main())
